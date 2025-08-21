@@ -1,18 +1,26 @@
-## Getting Started
+# 📱 Desafio iPhone - DIO
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório contém o projeto desenvolvido como parte do desafio proposto pela [Digital Innovation One (DIO)](https://www.dio.me/), com o objetivo de praticar a estruturação de projetos Java no Visual Studio Code.
 
-## Folder Structure
+## 🎯 Objetivo
 
-The workspace contains two folders by default, where:
+Criar uma estrutura básica de projeto Java simulando funcionalidades de um iPhone, utilizando conceitos de orientação a objetos e organização de código.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 📦 Gerenciamento de Dependências
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+O projeto pode ser gerenciado diretamente pelo Visual Studio Code, utilizando a visualização **JAVA PROJECTS**. Para adicionar bibliotecas externas, basta clicar com o botão direito em "Referenced Libraries" e selecionar "Add Library".
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Mais informações: [Documentação oficial do plugin Java para VS Code](https://github.com/microsoft/vscode-java-dependency#manage-dependencies)
 
-## Dependency Management
+## 🛠️ Tecnologias Utilizadas
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Java
+- Visual Studio Code
+- Extensões Java para VS Code
+
+## ▶️ Como Executar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/Thayscosta95/Desafio-iphone-dio.git
+
